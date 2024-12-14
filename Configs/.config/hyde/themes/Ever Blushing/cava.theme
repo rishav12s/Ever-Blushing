@@ -1,0 +1,14 @@
+$HOME/.config/cava/Wall-Dcol|${scrDir}/wallbashcava.sh
+
+[general]
+bars = 0
+bar_width = 3
+bar_spacing = 1
+
+[color]
+gradient = 1
+gradient_count = 4
+gradient_color_4 = '#8ccf7e'
+gradient_color_2 = '#67b0e8'
+gradient_color_3 = '#67b0e8'
+gradient_color_1 = '#c47fd5'
